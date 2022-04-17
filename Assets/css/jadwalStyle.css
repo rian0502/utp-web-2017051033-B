@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.praktek{
+    background-color: yellow;
+}
+
+.tebel{
+	border-collapse: collapse;
+	margin: auto;
+	width: 80%;
+}
+
+.card{
+    margin: auto;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.3);
+	border-radius: 5px;
+	padding: 10px;
+	margin-top: 20px;
+	border-color: #e6dd3b;
+    background-color: #f3f4ed;
+    width: 80%;
+    text-align: center;
+}
+
+table tr{
+	text-align: center;
+}
